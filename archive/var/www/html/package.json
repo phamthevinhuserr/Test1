@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "checker-proxy": "^1.0.1",
+    "cloudscraper": "^4.6.0",
+    "request": "^2.88.2",
+    "sleep": "^6.3.0",
+    "string-progressbar": "^1.0.4",
+    "url": "^0.11.0",
+    "url-status-code": "^2.0.0"
+  }
+}
